@@ -17,6 +17,9 @@ button {
   letter-spacing: -0.03em;
 }
 
+
+
+
 .section-white {
   width: 100%;
   background-color: #ffffff;
@@ -349,8 +352,10 @@ span {
   font-size: 20px;
   line-height: 27px;
 
-  color: #ffffff;
+  color: #fa0101;
   opacity: 0.5;
+	border: 2px solid currentColor;
+	
 }
 
 /* АДАПТИВ */
